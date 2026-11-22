@@ -1,0 +1,79 @@
+# Post-AGI Economics
+
+> Research into production, scarcity, distribution and the models we use when cognitive work becomes cheaper.
+
+
+
+- [About Post-AGI Economics](https://post-agi-economics.org/about/index.md): What Post-AGI Economics studies, the three lines of inquiry it follows, and how One Yardstick, MONAD and RawThoughts connect to it. ([HTML](https://post-agi-economics.org/about/))
+
+- [Cheap copies, scarce attention](https://post-agi-economics.org/blog/cheap-copies-scarce-attention/index.md): Cheaper information changes selection, specialist markets and the feedback between audience access and product improvement. ([HTML](https://post-agi-economics.org/blog/cheap-copies-scarce-attention/))
+
+- [A catalogue still needs an audience](https://post-agi-economics.org/blog/history-without-a-timetable/index.md): Broadcasting, streaming and conversational interfaces reveal how cheaper delivery changes selection, income and the work behind a service. ([HTML](https://post-agi-economics.org/blog/history-without-a-timetable/))
+
+- [Blog](https://post-agi-economics.org/blog/index.md): Independent essays on exchanging intelligence, comparing human and agent work, timing a transition, information markets and media history. ([HTML](https://post-agi-economics.org/blog/))
+
+- [The time between frontiers](https://post-agi-economics.org/blog/one-clock-many-frontiers/index.md): The same present crossing probability can imply different waiting times when future transition rules differ. ([HTML](https://post-agi-economics.org/blog/one-clock-many-frontiers/))
+
+- [One Yardstick, One Clock: why the AI timeline debate misses the point](https://post-agi-economics.org/blog/one-yardstick-one-clock/index.md): Compare human and agent execution on the same work, then ask how much time an economy has to adapt and who can buy the result. ([HTML](https://post-agi-economics.org/blog/one-yardstick-one-clock/))
+
+- [The Red Pill: AI skews the power law. And that's okay!](https://post-agi-economics.org/blog/the-red-pill/index.md): A December 2023 thought experiment about exchanging reusable intelligence, the humans who check it and an economy beyond the fight for attention. ([HTML](https://post-agi-economics.org/blog/the-red-pill/))
+
+- [Thoughts](https://post-agi-economics.org/collections/index.md): What changes in an economy, and in the models that describe it, when thinking gets cheap: where the constraint moves, who gets the gain and what counts as evidence. Essays that stand alone are on the Blog. ([HTML](https://post-agi-economics.org/collections/))
+
+- [From abundance to a changed description](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/index.md): Follow cheap cognition through a surviving production model, the destination of a saving and the point where a richer account becomes necessary. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/))
+
+- [Where does the saving go?](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/premises/index.md): A service that cost 100 now costs 70. Does the customer pay less or the supplier keep more, and whose income did the thirty used to be? ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/premises/))
+
+- [What changes when the constraint moves?](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/transition-dynamics/index.md): A workshop can run out of machine time, change owners or lose track of a necessary part. Each change asks something different of its economic model. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/transition-dynamics/))
+
+- [When thinking stops being the scarce part](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/when-thinking-stops-being-scarce/index.md): Cheap cognition can leave a production model intact while moving income to the scarce complement. A worked example asks what the aggregate then leaves out. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/when-thinking-stops-being-scarce/))
+
+- [What breaks when thinking gets cheap](https://post-agi-economics.org/collections/thinking-gets-cheap/index.md): Follow production, scarcity and whether familiar economic models still hold as cognitive work becomes cheaper. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/))
+
+- [A forecast meets its outcome](https://post-agi-economics.org/collections/thinking-gets-cheap/models-and-measures/a-forecast-meets-its-outcome/index.md): A forecast issued before an outcome earns trust through calibration, informative probabilities and a fair baseline. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/models-and-measures/a-forecast-meets-its-outcome/))
+
+- [Models and measures](https://post-agi-economics.org/collections/thinking-gets-cheap/models-and-measures/index.md): What a count of AI use actually counts, and how a forecast is checked against the event it named. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/models-and-measures/))
+
+- [Counting the spread of AI](https://post-agi-economics.org/collections/thinking-gets-cheap/models-and-measures/measuring-ai-diffusion/index.md): A broader survey category can reveal more AI use without showing a matching change in production. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/models-and-measures/measuring-ai-diffusion/))
+
+- [The economy inside the measure](https://post-agi-economics.org/collections/thinking-gets-cheap/models-and-measures/metrics-are-models/index.md): Counting AI production, AI use and welfare requires different observation and accounting boundaries. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/models-and-measures/metrics-are-models/))
+
+- [After the planning bottleneck](https://post-agi-economics.org/collections/thinking-gets-cheap/moving-constraints/capital-theory/index.md): More plans make a workshop's machine time binding; complementary inputs explain the next useful investment. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/moving-constraints/capital-theory/))
+
+- [Where the constraint moves](https://post-agi-economics.org/collections/thinking-gets-cheap/moving-constraints/index.md): Where complements bind, who controls access and how long a premium lasts. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/moving-constraints/))
+
+- [Who captures value when the bottleneck moves?](https://post-agi-economics.org/collections/thinking-gets-cheap/moving-constraints/scarcity-and-rent/index.md): Necessary inputs, control rights and durable rent are different economic objects. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/moving-constraints/scarcity-and-rent/))
+
+- [Compare complete execution](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/compare-complete-execution/index.md): Compare the cost of getting 100 invoices ready for review, including errors and corrections. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/compare-complete-execution/))
+
+- [What makes work executable?](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/evaluation-and-execution/index.md): An execution hypothesis connects measurable work to automation, its full cost and the buyers who depend on the income it replaces. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/evaluation-and-execution/))
+
+- [From capability to economic consequence](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/index.md): Follow a capability through deployed work, production and labour to what reaches households. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/))
+
+- [Same technology, different economy](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/institutions-and-distribution/index.md): One cost saving can reach customers, a supplier, worker-owners or a public budget. Ownership and the rules around it decide which. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/institutions-and-distribution/))
+
+- [The changing work behind an occupation](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/labor-economics/index.md): Task exposure, workplace assistance and early-career hiring reveal different parts of how AI reaches workers. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/labor-economics/))
+
+- [The work around the tool](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/organisational-complements/index.md): Co-investment, process redesign and learning determine how a local capability becomes production. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/organisational-complements/))
+
+- [Who gets to buy what machines produce?](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/productivity-and-purchasing-power/index.md): Cheaper services can coexist with a household unable to afford them. Follow prices, lost wages and other income through its budget. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/productivity-and-purchasing-power/))
+
+- [Who gets the gain](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/index.md): How gains from useful work reach households through prices, pay, ownership and the institutions around them. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/))
+
+- [When the buyer finds an answer](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/when-the-buyer-finds-an-answer/index.md): A deployed service can change whether a transaction happens; its sales effect, full return and wider demand consequences are different questions. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/when-the-buyer-finds-an-answer/))
+
+- [When intelligence gets cheap](https://post-agi-economics.org/index.md): Research into production, scarcity, distribution and the models we use when cognitive work becomes cheaper. ([HTML](https://post-agi-economics.org/))
+
+- [One Yardstick](https://post-agi-economics.org/one-yardstick/index.md): A living thesis about comparable execution, the time available to adapt and who can buy what agents produce. ([HTML](https://post-agi-economics.org/one-yardstick/))
+
+- [One Yardstick mentions](https://post-agi-economics.org/one-yardstick/mentions/index.md): Writing that discusses or references One Yardstick across the connected publications. ([HTML](https://post-agi-economics.org/one-yardstick/mentions/))
+
+- [Privacy notice](https://post-agi-economics.org/privacy/index.md): Website hosting, email contact, reading preferences and external reading assistance for RTEPL's editorial publications. ([HTML](https://post-agi-economics.org/privacy/))
+
+- [Research](https://post-agi-economics.org/research/index.md): How cheaper cognitive work changes production, scarcity, household resources and the models used to understand them. ([HTML](https://post-agi-economics.org/research/))
+
+- [Search](https://post-agi-economics.org/search/index.md): Find pages, articles and collections from Post-AGI Economics. ([HTML](https://post-agi-economics.org/search/))
+
+- [Terms of use](https://post-agi-economics.org/terms/index.md): Use and reuse of RTEPL's editorial publications and contact with the publisher. ([HTML](https://post-agi-economics.org/terms/))
+
+

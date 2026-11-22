@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="840" viewBox="0 0 420 840" role="img" aria-labelledby="plot-title plot-desc">
+<title id="plot-title">Two waiting-time distributions</title><desc id="plot-desc">Both crossing laws begin at ten percent. Keeping ten percent each period gives mean wait ten periods; changing to fifty percent after the first gives 2.8. Upper panel is survival; lower panel is first-crossing probability.</desc>
+<path d="M20 30H48" fill="none" stroke="var(--color-accent, #38685a)" stroke-width="2.2"/>
+<text x="60.000" y="36.000" fill="var(--color-ink, #292c29)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="start">10% each period</text>
+<text x="60.000" y="64.000" fill="var(--color-ink, #292c29)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="start">Mean wait: 10 periods</text>
+<path d="M20 106H48" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="2.2" stroke-dasharray="7 5"/>
+<text x="60.000" y="112.000" fill="var(--color-ink, #292c29)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="start">10%, then 50%</text>
+<text x="60.000" y="140.000" fill="var(--color-ink, #292c29)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="start">Mean wait: 2.8 periods</text>
+<text x="20.000" y="200.000" fill="var(--color-ink, #292c29)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="start">Probability of still waiting</text>
+<path d="M85 230V430H385" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<path d="M79 430.000H85" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="70.000" y="437.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="end">0</text>
+<path d="M79 334.762H85" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="70.000" y="341.762" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="end">0.5</text>
+<path d="M79 239.524H85" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="70.000" y="246.524" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="end">1</text>
+<path d="M85.000 430V436" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="85.000" y="464.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">0</text>
+<path d="M157.500 430V436" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="157.500" y="464.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">4</text>
+<path d="M230.000 430V436" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="230.000" y="464.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">8</text>
+<path d="M302.500 430V436" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="302.500" y="464.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">12</text>
+<path d="M375.000 430V436" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="375.000" y="464.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">16</text>
+<path d="M85.000 239.524H103.125V258.571H121.250V275.714H139.375V291.143H157.500V305.029H175.625V317.526H193.750V328.773H211.875V338.896H230.000V348.006H248.125V356.206H266.250V363.585H284.375V370.227H302.500V376.204H320.625V381.584H338.750V386.425H356.875V390.783H375.000V394.704" fill="none" stroke="var(--color-accent, #38685a)" stroke-width="2.2"/>
+<path d="M85.000 239.524H103.125V258.571H121.250V344.286H139.375V387.143H157.500V408.571H175.625V419.286H193.750V424.643H211.875V427.321H230.000V428.661H248.125V429.330H266.250V429.665H284.375V429.833H302.500V429.916H320.625V429.958H338.750V429.979H356.875V429.990H375.000V429.995" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="2.2" stroke-dasharray="7 5"/>
+<text x="20.000" y="520.000" fill="var(--color-ink, #292c29)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="start">Probability of first crossing</text>
+<path d="M85 550V750H385" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<path d="M79 750.000H85" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="70.000" y="757.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="end">0</text>
+<path d="M79 650.000H85" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="70.000" y="657.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="end">0.25</text>
+<path d="M79 550.000H85" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="70.000" y="557.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="end">0.5</text>
+<path d="M85.000 750V756" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="85.000" y="784.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">0</text>
+<path d="M157.500 750V756" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="157.500" y="784.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">4</text>
+<path d="M230.000 750V756" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="230.000" y="784.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">8</text>
+<path d="M302.500 750V756" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="302.500" y="784.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">12</text>
+<path d="M375.000 750V756" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.5"/>
+<text x="375.000" y="784.000" fill="var(--color-ink, #292c29)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" text-anchor="middle">16</text>
+<path d="M103.125 710.000 L121.250 714.000 L139.375 717.600 L157.500 720.840 L175.625 723.756 L193.750 726.380 L211.875 728.742 L230.000 730.868 L248.125 732.781 L266.250 734.503 L284.375 736.053 L302.500 737.448 L320.625 738.703 L338.750 739.833 L356.875 740.849 L375.000 741.764" fill="none" stroke="var(--color-accent, #38685a)" stroke-width="2"/>
+<circle cx="103.125" cy="710.000" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="121.250" cy="714.000" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="139.375" cy="717.600" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="157.500" cy="720.840" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="175.625" cy="723.756" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="193.750" cy="726.380" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="211.875" cy="728.742" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="230.000" cy="730.868" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="248.125" cy="732.781" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="266.250" cy="734.503" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="284.375" cy="736.053" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="302.500" cy="737.448" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="320.625" cy="738.703" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="338.750" cy="739.833" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="356.875" cy="740.849" r="4" fill="var(--color-accent, #38685a)"/>
+<circle cx="375.000" cy="741.764" r="4" fill="var(--color-accent, #38685a)"/>
+<path d="M103.125 710.000 L121.250 570.000 L139.375 660.000 L157.500 705.000 L175.625 727.500 L193.750 738.750 L211.875 744.375 L230.000 747.188 L248.125 748.594 L266.250 749.297 L284.375 749.648 L302.500 749.824 L320.625 749.912 L338.750 749.956 L356.875 749.978 L375.000 749.989" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="99.125" y="706.000" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="117.250" y="566.000" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="135.375" y="656.000" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="153.500" y="701.000" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="171.625" y="723.500" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="189.750" y="734.750" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="207.875" y="740.375" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="226.000" y="743.188" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="244.125" y="744.594" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="262.250" y="745.297" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="280.375" y="745.648" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="298.500" y="745.824" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="316.625" y="745.912" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="334.750" y="745.956" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="352.875" y="745.978" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<rect x="371.000" y="745.989" width="8" height="8" fill="none" stroke="var(--color-ink, #292c29)" stroke-width="1.6"/>
+<text x="230.000" y="828.000" fill="var(--color-ink, #292c29)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="middle">Periods</text>
+</svg>
