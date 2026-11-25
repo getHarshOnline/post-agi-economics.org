@@ -17,4 +17,21 @@
 - [About Post-AGI Economics](https://post-agi-economics.org/about/index.md): What Post-AGI Economics studies, the three lines of inquiry it follows, and how One Yardstick, MONAD and RawThoughts connect to it. ([HTML](https://post-agi-economics.org/about/))
 
 
+## Projects and products
+
+- [One Yardstick](https://post-agi-economics.org/one-yardstick/index.md): A living thesis about comparable execution, the time available to adapt and who can buy what agents produce. ([HTML](https://post-agi-economics.org/one-yardstick/))
+
+
+## Collections
+
+- [What breaks when thinking gets cheap](https://post-agi-economics.org/collections/thinking-gets-cheap/index.md): Follow production, scarcity and whether familiar economic models still hold as cognitive work becomes cheaper. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/))
+
+
+## Reading journeys
+
+- [From abundance to a changed description](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/index.md): Follow cheap cognition through a surviving production model, the destination of a saving and the point where a richer account becomes necessary. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/from-abundance-to-a-changed-description/))
+
+- [From capability to economic consequence](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/index.md): Follow a capability through deployed work, production and labour to what reaches households. ([HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/))
+
+
 
