@@ -2,8 +2,6 @@ Title: Search
 
 [Read HTML](https://post-agi-economics.org/search/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 3

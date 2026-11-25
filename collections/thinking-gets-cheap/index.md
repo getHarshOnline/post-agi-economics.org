@@ -2,8 +2,6 @@ Title: What breaks when thinking gets cheap
 
 [Read HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/)
 
-Author: Harsh Joshi
-
 How much of our account of an economy depends on thinking remaining costly? Wages, prices, productivity and consumption are connected through ratios and rates. Let the cost of cognition tend towards zero and its available supply towards infinity. Which relationships survive that limit, and which would we have to work out again?
 
 The answer depends on what we want to explain. A production model may still tell us how much can be made while leaving open who receives the income or can buy the output. Two purchases can cost the same and leave the buyer with different possibilities. An accurate total can therefore be enough for one question and insufficient for the next.

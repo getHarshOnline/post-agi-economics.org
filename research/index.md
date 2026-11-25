@@ -2,8 +2,6 @@ Title: Research
 
 [Read HTML](https://post-agi-economics.org/research/)
 
-Author: Harsh Joshi
-
 <a id="moving-constraints-and-their-consequences"></a>
 
 ## [What breaks when thinking gets cheap](https://post-agi-economics.org/collections/thinking-gets-cheap/)
@@ -30,7 +28,7 @@ Pause carousel
 
 New decision makers and relationships can ask more of an economic model than a new estimate within it. Causality studies how descriptions can change while keeping account of the distinctions that matter.
 
-[Explore the formal inquiry](https://causality.in/)
+[Explore the formal inquiry](https://causality.in/) (on Causality)
 
 <a id="capability-in-working-life"></a>
 
@@ -38,7 +36,7 @@ New decision makers and relationships can ask more of an economic model than a n
 
 A capability matters economically when people can use it in recurring work. RawThoughts explores the systems around that use: goals, context, relationships and the responsibility for a result.
 
-[Explore the systems](https://rawthoughts.in/products/)
+[Explore the systems](https://rawthoughts.in/products/) (on RawThoughts)
 
 <a id="questions-about-the-research"></a>
 

@@ -2,8 +2,6 @@ Title: About Post-AGI Economics
 
 [Read HTML](https://post-agi-economics.org/about/)
 
-Author: Harsh Joshi
-
 When machines can do more of the work, what changes for the people living in the economy?
 
 Post-AGI Economics studies how cheaper machine agency changes production, scarcity, ownership and income. More capability can open new activities while making power, infrastructure or access more valuable. The gains depend on how firms, households and institutions adapt, and on who can participate.
@@ -42,7 +40,7 @@ A model can be right about its totals and still miss the relation needed for a d
 
 An economy can produce more while some households lose the income with which they bought its output. Firms can become more productive while a scarce input captures much of the gain. Following those relationships requires a model that represents the actors, constraints and channels relevant to the decision.
 
-That question connects the programme to [MONAD’s study of changing descriptions](https://causality.in/monad/): when does a model need new values, and when must it make room for a different account of the activity?
+That question connects the programme to [MONAD’s study of changing descriptions](https://causality.in/monad/) (on Causality): when does a model need new values, and when must it make room for a different account of the activity?
 
 Ask what changes the answer.
 
@@ -54,4 +52,4 @@ How much time does an economy have to adapt?
 
 [One Yardstick](https://post-agi-economics.org/one-yardstick/) connects the evaluation of agent execution to a proposed transition clock: how much time might an economy have to adapt, and what kind of economy would it become? That living thesis develops alongside the inquiry into moving constraints and rents. A capability becoming accessible, a firm changing its process and a household losing income are different transitions. Understanding their relationship is part of the work needed to connect a clock to the economy it describes.
 
-Post-AGI Economics is a research programme within [RawThoughts](https://rawthoughts.in/), with this independent publication. [Harsh Joshi](https://getharsh.in/about/) is its author; RawThoughts Enterprises Private Limited is its publisher.
+Post-AGI Economics is a research programme within [RawThoughts](https://rawthoughts.in/) (on RawThoughts), with this independent publication. [Harsh Joshi](https://getharsh.in/about/) (on getHarsh) is its author; RawThoughts Enterprises Private Limited is its publisher.

@@ -2,8 +2,6 @@ Title: Models and measures
 
 [Read HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/models-and-measures/)
 
-Author: Harsh Joshi
-
 How much AI is in the economy? A count of firms using a tool and a count of completed autonomous tasks give different answers because they count different things. Money spent on software asks another question again.
 
 The economic question gives a counted event its meaning. A count which once located a new activity can become uninformative when that activity spreads into tasks the survey never distinguished. A revised definition can then improve the observation while breaking comparison with earlier years. Understanding that trade-off matters before the series becomes evidence about production, or an input to [a clock](https://post-agi-economics.org/blog/one-clock-many-frontiers/).

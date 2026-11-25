@@ -2,8 +2,6 @@ Title: One Yardstick
 
 [Read HTML](https://post-agi-economics.org/one-yardstick/)
 
-Author: Harsh Joshi
-
 <a id="one-yardstick"></a>
 
 # One Yardstick

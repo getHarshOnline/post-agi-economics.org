@@ -2,8 +2,6 @@ Title: When intelligence gets cheap
 
 [Read HTML](https://post-agi-economics.org/)
 
-Author: Harsh Joshi
-
 [Underlying film](https://post-agi-economics.org/assets/content/post-agi-economics/media/opening/hero.mp4)
 
 <a id="when-intelligence-gets-cheap"></a>

@@ -10,7 +10,7 @@ Author: Harsh Joshi
 
 Jobs are not a law of nature. Humans made jobs as a framework for exchanging value. Money pays for the work; increasingly, attention determines who gets the opportunity to offer it. But neither arrangement exhausts what we could exchange.
 
-[The Blue Pill](https://rawthoughts.in/blog/the-blue-pill/) scenario starts with a familiar loop. If you already have distribution, you get more deals, more observations and more chances to improve. AI makes the work cheaper and lets you run more experiments through that distribution. The power law was there before AI; AI accelerates it. For the people who put in the work and built their position before this asymmetry arrived, that can be a very good deal. They did build the stage.
+[The Blue Pill](https://rawthoughts.in/blog/the-blue-pill/) (on RawThoughts) scenario starts with a familiar loop. If you already have distribution, you get more deals, more observations and more chances to improve. AI makes the work cheaper and lets you run more experiments through that distribution. The power law was there before AI; AI accelerates it. For the people who put in the work and built their position before this asymmetry arrived, that can be a very good deal. They did build the stage.
 
 For someone starting with little or no distribution, it sounds almost like a doomsday scenario. Right?
 
@@ -30,7 +30,7 @@ My starting assumption is that AI is very early in its development: closer to th
 
 Gradually is the important word. It is also a dangerous comfort. Humans are not especially good at imagining a change that keeps accelerating. Objects in the mirror are closer than they appear.
 
-In [The ineffable geometry](https://causality.in/blog/the-ineffable-geometry/), I ask whether a richer language for causality could let us understand and localise intelligence inside a model. My ambition there is determinism: an account of why the result follows, beyond the statistical tools on which we currently rely. The continuation explores what such an unfamiliar description might demand of us. These are early mathematical hunches, not established methods for extracting a skill from a neural network.
+In [The ineffable geometry](https://causality.in/blog/the-ineffable-geometry/) (on Causality), I ask whether a richer language for causality could let us understand and localise intelligence inside a model. My ambition there is determinism: an account of why the result follows, beyond the statistical tools on which we currently rely. The continuation explores what such an unfamiliar description might demand of us. These are early mathematical hunches, not established methods for extracting a skill from a neural network.
 
 The part I want to carry into this argument is the possibility of transferring intelligence in pieces. Suppose we could identify a useful capability, extract it, preserve what makes it work and combine it with another. If that premise feels too abstract, read the geometry first and come back. It's in cyberspace now; the article is not going anywhere.
 
@@ -76,7 +76,7 @@ This assumes we can separate what transfers from what does not. A banana has dif
 
 The Lego intelligence economy, if you will. Extend those two scenarios and start building your Lego land.
 
-[Some things never change](https://daostudio.in/collections/protocols-and-reuse/some-things-never-change/) follows the practical problem inside that premise: what crosses from one setting to another, what must be adapted and how the recipient checks the result. A reusable description is a beginning; a capability that works in the receiving situation is the proposed good.
+[Some things never change](https://daostudio.in/collections/protocols-and-reuse/some-things-never-change/) (on DAO Studio) follows the practical problem inside that premise: what crosses from one setting to another, what must be adapted and how the recipient checks the result. A reusable description is a beginning; a capability that works in the receiving situation is the proposed good.
 
 <a id="a-different-unit-of-exchange"></a>
 

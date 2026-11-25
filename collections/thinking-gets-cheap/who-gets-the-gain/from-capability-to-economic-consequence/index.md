@@ -2,8 +2,6 @@ Title: From capability to economic consequence
 
 [Read HTML](https://post-agi-economics.org/collections/thinking-gets-cheap/who-gets-the-gain/from-capability-to-economic-consequence/)
 
-Author: Harsh Joshi
-
 An attractive result from one task can tempt us to jump straight to the future of work. The intervening questions determine whether the result travels: can it become dependable work in an organisation, what response does that work produce, and whose income or spending changes?
 
 The order begins with an execution comparison so that the supposed gain has a definite meaning. It then follows the surrounding organisation before examining labour, household resources and institutional arrangements. A later conclusion can depend on an earlier link being established, but it cannot be read off it. That is why a purchase response can be a real benefit while its labour and distributional consequences remain worth investigating.
